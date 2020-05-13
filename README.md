@@ -1,1 +1,1 @@
-# Education-Python
+# Education-Pytho
